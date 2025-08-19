@@ -31,7 +31,6 @@ This project currently includes a **Login page**, **Home page**, and **Product I
 
 ## 🚀 How to Run Locally
 
-### 1. Clone the repository
 ```bash
 git clone https://github.com/Prashanty10/Furniture-app.git
 ### 2. Navigate to the project folder
