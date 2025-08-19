@@ -14,10 +14,10 @@ This project currently includes a **Login page**, **Home page**, and **Product I
 
 # 📸 Screenshots
 <p align="center">
+  <img src="src/Screenshots/Welcome.png" width="250" />
   <img src="src/Screenshots/Login.png" width="250" />
   <img src="src/Screenshots/Home.png" width="250" />
   <img src="src/Screenshots/Product.png" width="250" />
-  <img src="src/Screenshots/Welcome.png" width="250" />
 </p>
 
 
